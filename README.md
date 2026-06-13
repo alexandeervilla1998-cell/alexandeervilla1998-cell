@@ -1,16 +1,27 @@
-## Hi there 👋
+## Certificaciones Online
 
-<!--
-**alexandeervilla1998-cell/alexandeervilla1998-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A continuación, comparto algunos de los cursos de especialización y certificaciones que he completado para fortalecer mis habilidades técnicas:
 
-Here are some ideas to get you started:
+### Git y GitHub Completo Desde Cero ACTUALIZADO
+* Plataforma: Udemy
+* Instructor: Jose Javier Villena
+* Duración: 5 horas en total
+* Fecha de finalización: 14 de Octubre de 2023
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Curso de C#
+* Plataforma: Udemy
+* Instructor: Héctor de León
+* Duración: 7.5 horas en total
+* Fecha de finalización: 31 de Octubre de 2023
+
+---
+
+### C# Curso Completo para ser programador .NET
+* Plataforma: Udemy
+* Instructor: Alam Mancera
+* Duración: 36 horas en total
+* Fecha de finalización: 11 de Noviembre de 2023
+
+
