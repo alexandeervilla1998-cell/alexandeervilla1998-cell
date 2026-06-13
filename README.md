@@ -8,7 +8,7 @@ A continuación, comparto algunos de los cursos de especialización y certificac
 * Duración: 5 horas en total
 * Fecha de finalización: 14 de Octubre de 2023
 
-![Certificado Git](certificado-git.jpg)
+![Certificado Git](<Multimedia (1).jpg>)
 
 ---
 
@@ -18,7 +18,7 @@ A continuación, comparto algunos de los cursos de especialización y certificac
 * Duración: 7.5 horas en total
 * Fecha de finalización: 31 de Octubre de 2023
 
-![Certificado CSharp](certificado-csharp.jpg)
+![Certificado CSharp](<Multimedia (2).jpg>)
 
 ---
 
@@ -28,5 +28,4 @@ A continuación, comparto algunos de los cursos de especialización y certificac
 * Duración: 36 horas en total
 * Fecha de finalización: 11 de Noviembre de 2023
 
-![Certificado Net](certificado-net.jpg)
-
+![Certificado Net](<Multimedia (3).jpg>)
